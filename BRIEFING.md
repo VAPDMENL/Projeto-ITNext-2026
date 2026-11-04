@@ -1,149 +1,117 @@
-BRIEFING — [PROJETO ITNEXT]
+# BRIEFING — PROJETO ITNEXT
 
-1. Identificação do Projeto
-Empresa cliente: ITnext
-Disciplina: Computação, Sociedade e Sustentabilidade
-Instituição: Universidade Católica de Pernambuco
-Data da validação: **/11/2026
+## 1. Identificação do Projeto
 
-Integrantes da equipe
-Integrante	Cargo
-João Pedro Calaça Vasconcelos	Gerente de Projetos
-João Gabriel Gomes de Sousa	Desenvolvedor
-Victor Araújo Pacheco de Miranda	Tech Lead
-2. Apresentação do Projeto
+- **Empresa cliente:** ITnext
+- **Disciplina:** Computação, Sociedade e Sustentabilidade
+- **Instituição:** Universidade Católica de Pernambuco
+- **Data da validação:** **/11/2026
 
-O projeto consiste no desenvolvimento de uma solução tecnológica para atender às necessidades identificadas junto à empresa ITnext.
+### Equipe
 
-A proposta busca solucionar os problemas observados durante o levantamento de requisitos, oferecendo recursos que facilitem os processos, melhorem a organização das informações e atendam às demandas apresentadas pelo cliente.
+| Integrante | Cargo |
+|---|---|
+| João Pedro Calaça Vasconcelos | Gerente de Projetos |
+| João Gabriel Gomes de Sousa | Desenvolvedor |
+| Victor Araújo Pacheco de Miranda | Tech Lead |
 
-Por meio do desenvolvimento de um protótipo, a equipe busca demonstrar como a solução poderá contribuir para melhorar os processos relacionados ao contexto do projeto.
+---
 
-Objetivo geral
+## 2. Apresentação e Objetivo
 
-Desenvolver uma solução tecnológica alinhada às necessidades da empresa ITnext, buscando melhorar os processos identificados e proporcionar uma experiência eficiente aos usuários.
+O projeto consiste no desenvolvimento de uma aplicação para atender às necessidades da empresa ITnext.
 
-3. Problemas e Dores Identificadas
+A ideia é criar uma solução que facilite a organização, o acesso e a consulta de informações, ajudando a melhorar os processos e o acompanhamento de dados, projetos e indicadores.
 
-Durante a análise do cenário do projeto, foram identificadas dificuldades relacionadas à organização, integração e acompanhamento de informações.
+**Objetivo:** desenvolver uma aplicação prática e organizada que ajude a resolver os problemas identificados junto ao cliente.
 
-As principais dores levantadas foram:
+---
 
-3.1. Informações descentralizadas
+## 3. Dores Identificadas
 
-Os dados estão distribuídos entre diferentes sistemas, plataformas e planilhas, dificultando o acesso a uma visão geral das informações.
+Durante o levantamento e a análise do contexto do projeto, foram consideradas as seguintes dificuldades:
 
-3.2. Dificuldade de integração
+- **Descentralização de informações:** dados distribuídos em diferentes fontes, dificultando o acesso.
+- **Dificuldade de integração:** necessidade de reunir informações provenientes de diferentes sistemas.
+- **Processos manuais:** atividades repetitivas que podem consumir tempo e dificultar a organização.
+- **Acompanhamento de indicadores:** dificuldade para visualizar e acompanhar metas e resultados.
+- **Análise de informações:** necessidade de facilitar a consulta e interpretação dos dados.
 
-A utilização de diferentes fontes de dados dificulta a reunião e a comparação das informações em um único ambiente.
+---
 
-3.3. Processos manuais e repetitivos
+## 4. Requisitos Gerados
 
-A necessidade de reunir e organizar informações manualmente pode consumir tempo e aumentar a possibilidade de inconsistências.
+A partir das dores levantadas, foram definidos os seguintes requisitos para orientar o desenvolvimento da aplicação:
 
-3.4. Dificuldade no acompanhamento de indicadores
+| ID | Requisito | Objetivo |
+|---|---|---|
+| RF01 | Centralização de informações | Reunir dados em um ambiente integrado. |
+| RF02 | Integração de dados | Facilitar a utilização de informações de diferentes fontes. |
+| RF03 | Automatização de processos | Reduzir atividades manuais e repetitivas. |
+| RF04 | Acompanhamento de indicadores | Facilitar a visualização de metas e resultados. |
+| RF05 | Consulta de informações | Organizar os dados para facilitar sua análise. |
 
-A falta de uma visão integrada dificulta o acompanhamento de metas, indicadores e resultados dos projetos.
+---
 
-3.5. Dificuldade na análise de resultados
+## 5. Requisitos versus Soluções Implementadas
 
-A dispersão das informações pode dificultar a identificação de desvios, problemas e oportunidades de melhoria.
+A tabela apresenta a relação entre as necessidades identificadas e as soluções desenvolvidas na aplicação.
 
-4. Requisitos Gerados a Partir das Dores
+| Requisito | Solução proposta | Demonstração no protótipo |
+|---|---|---|
+| RF01 | Ambiente centralizado de informações. | Apresentar a área principal da aplicação. |
+| RF02 | Automatização de processos. | Apresentar as funcionalidades implementadas. |
+| RF03 | Visualização de indicadores e resultados. | Mostrar o painel de acompanhamento. |
+| RF04 | Consulta organizada de informações. | Realizar uma consulta no sistema. |
 
-A partir dos problemas identificados, foram estabelecidos os seguintes requisitos para orientar o desenvolvimento da solução.
+---
 
-ID	Dor identificada	Requisito
-RF01	Informações descentralizadas	Centralizar informações em um ambiente integrado.
-RF02	Dificuldade de integração	Permitir a integração de dados provenientes de diferentes fontes.
-RF03	Processos manuais e repetitivos	Automatizar etapas de organização e análise dos dados.
-RF04	Dificuldade no acompanhamento	Facilitar o acompanhamento de projetos, metas e indicadores.
-RF05	Dificuldade na análise de resultados	Disponibilizar informações organizadas para auxiliar na tomada de decisões.
-5. Requisitos versus Soluções Implementadas
+## 6. Benefícios Esperados
 
-Nesta etapa, é apresentada a relação entre os requisitos definidos e as soluções desenvolvidas no protótipo.
+- Maior organização e centralização das informações.
+- Facilidade de acesso e consulta aos dados.
+- Redução de atividades manuais.
+- Melhor acompanhamento de projetos e indicadores.
+- Mais agilidade na análise de informações.
+- Apoio à tomada de decisões.
 
-Requisito	Solução proposta	Evidência no protótipo
-RF01	Centralização das informações.	Apresentação das informações em um ambiente integrado.
-RF02	Integração de diferentes fontes de dados.	Demonstração da estrutura de integração prevista no protótipo.
-RF03	Automatização de processos de análise.	Demonstração dos recursos de automatização disponíveis.
-RF04	Acompanhamento de projetos, metas e indicadores.	Visualização das informações e indicadores disponíveis.
-RF05	Apoio à análise e tomada de decisões.	Apresentação dos dados organizados e dos resultados disponíveis.
+---
 
-Observação: as demonstrações devem corresponder às funcionalidades efetivamente desenvolvidas. Recursos ainda não implementados devem ser identificados como planejados.
+## 7. Validação com o Cliente
 
-6. Demonstração do Protótipo — Caminho Feliz
+### Perguntas para validação
 
-O objetivo desta etapa é apresentar o funcionamento normal da aplicação, demonstrando como o usuário poderá utilizar a solução para realizar as atividades previstas.
+1. A solução apresentada atende às necessidades identificadas?
+2. A organização das informações está clara e facilita sua consulta?
+3. As funcionalidades disponíveis são suficientes para atender às necessidades do cliente?
+4. Existe alguma funcionalidade importante que deveria ser acrescentada?
+5. O que poderia ser melhorado na aplicação?
 
-Sequência de demonstração
-Acesso inicial: apresentar a tela inicial da aplicação.
-Visualização principal: mostrar o ambiente principal do sistema.
-Consulta de dados: demonstrar como as informações podem ser acessadas.
-Acompanhamento de projetos: apresentar a visualização dos projetos disponíveis.
-Indicadores e metas: demonstrar como os indicadores e as metas podem ser acompanhados.
-Análise das informações: apresentar como os dados organizados podem auxiliar na compreensão dos resultados.
-Resultado esperado
+### Registro do Feedback
 
-Demonstrar como a solução desenvolvida pode facilitar os processos da empresa ITnext e atender aos requisitos identificados durante o levantamento de necessidades.
+**Pontos positivos:**
+- A preencher durante a validação.
 
-7. Benefícios Esperados
+**Problemas ou dificuldades observados:**
+- A preencher durante a validação.
 
-Com a implementação da solução, espera-se alcançar os seguintes benefícios:
+**Sugestões de melhorias:**
+- A preencher durante a validação.
 
-Centralização das informações em um único ambiente.
-Redução da necessidade de reunir dados manualmente.
-Facilidade de acesso e consulta às informações.
-Melhor acompanhamento de projetos, metas e indicadores.
-Maior organização dos dados.
-Agilidade na análise de resultados.
-Apoio à tomada de decisões.
-8. Validação com o Cliente
+**Alterações solicitadas pelo cliente:**
+- A preencher durante a validação.
 
-Esta etapa tem como finalidade verificar se a solução apresentada atende às necessidades identificadas e se o protótipo está alinhado às expectativas da empresa ITnext.
+---
 
-Durante a validação, serão apresentados os requisitos, as soluções desenvolvidas e o funcionamento do protótipo.
+## 8. Considerações Finais
 
-Perguntas para validação
-A proposta apresentada atende às necessidades identificadas?
-A solução apresentada facilitaria os processos realizados atualmente?
-A organização das informações está clara e atende às expectativas?
-Os recursos disponíveis são suficientes para atender às necessidades identificadas?
-Existe alguma funcionalidade importante que deveria ser acrescentada?
-O que poderia ser melhorado na solução apresentada?
-Registro do feedback
+O projeto busca desenvolver uma aplicação alinhada às necessidades da empresa ITnext, utilizando os requisitos levantados como base para a implementação da solução.
 
-Pontos positivos identificados pelo cliente:
+A validação com o cliente permitirá avaliar o protótipo, identificar ajustes necessários e orientar as próximas etapas do desenvolvimento.
 
-A preencher durante a validação.
+O feedback recebido será discutido pela equipe e utilizado para aprimorar a aplicação.
 
-Dificuldades ou problemas observados:
+---
 
-A preencher durante a validação.
-
-Funcionalidades sugeridas:
-
-A preencher durante a validação.
-
-Alterações solicitadas:
-
-A preencher durante a validação.
-9. Melhorias Futuras
-
-Após a validação com o cliente, as observações recebidas serão analisadas pela equipe para identificar possíveis melhorias e ajustes no projeto.
-
-As alterações serão priorizadas de acordo com as necessidades apresentadas pelo cliente e a relevância para o funcionamento da solução.
-
-Melhorias definidas após a validação:
-
-A preencher após a reunião.
-10. Considerações Finais
-
-O projeto busca desenvolver uma solução tecnológica alinhada às necessidades identificadas junto à empresa ITnext.
-
-A validação com o cliente representa uma etapa importante para verificar se os requisitos definidos correspondem às necessidades reais e se as soluções apresentadas estão alinhadas aos objetivos do projeto.
-
-O feedback recebido será utilizado como base para orientar os próximos ajustes e aprimoramentos da solução.
-
-Empresa cliente: ITnext
-Equipe responsável: Desenvolvimento do projeto
+**Projeto:** ITNEXT  
+**Equipe responsável:** Zé Carioca
