@@ -60,9 +60,10 @@ A tabela apresenta a relação entre as necessidades identificadas e as soluçõ
 | Requisito | Solução proposta | Demonstração no protótipo |
 |---|---|---|
 | RF01 | Ambiente centralizado de informações. | Apresentar a área principal da aplicação. |
-| RF02 | Automatização de processos. | Apresentar as funcionalidades implementadas. |
-| RF03 | Visualização de indicadores e resultados. | Mostrar o painel de acompanhamento. |
-| RF04 | Consulta organizada de informações. | Realizar uma consulta no sistema. |
+| RF02 | Integrar informações de diferentes fontes. | Mostrar os recursos de integração disponíveis. |
+| RF03 | Automatização de processos. | Apresentar as funcionalidades implementadas. |
+| RF04 | Visualização de indicadores e resultados. | Mostrar o painel de acompanhamento. |
+| RF05 | Consulta organizada de informações. | Realizar uma consulta no sistema. |
 
 ---
 
