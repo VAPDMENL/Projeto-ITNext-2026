@@ -66,7 +66,13 @@ A tabela apresenta a relação entre as necessidades identificadas e as soluçõ
 
 ---
 
-## 6. Benefícios Esperados
+## 6. Link do Protótipo
+
+https://lovable.dev/projects/ebaaf864-2b3c-48bc-a134-9bdb6e3f3db9?magic_link=mc_da97853f-9269-4c6c-8fb1-1ed181d7e258
+
+---
+
+## 7. Benefícios Esperados
 
 - Maior organização e centralização das informações.
 - Facilidade de acesso e consulta aos dados.
@@ -77,7 +83,7 @@ A tabela apresenta a relação entre as necessidades identificadas e as soluçõ
 
 ---
 
-## 7. Validação com o Cliente
+## 8. Validação com o Cliente
 
 ### Perguntas para validação
 
@@ -103,7 +109,7 @@ A tabela apresenta a relação entre as necessidades identificadas e as soluçõ
 
 ---
 
-## 8. Considerações Finais
+## 9. Considerações Finais
 
 O projeto busca desenvolver uma aplicação alinhada às necessidades da empresa ITnext, utilizando os requisitos levantados como base para a implementação da solução.
 
