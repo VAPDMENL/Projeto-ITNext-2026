@@ -2,7 +2,7 @@
 
 ## 1. Identificação do Projeto
 
-- **Empresa cliente:** ITnext
+- **Empresa cliente:** ITNext
 - **Disciplina:** Computação, Sociedade e Sustentabilidade
 - **Instituição:** Universidade Católica de Pernambuco
 - **Data da validação:** **/11/2026
