@@ -13,7 +13,7 @@
 |---|---|
 | João Pedro Calaça Vasconcelos | Gerente de Projetos |
 | João Gabriel Gomes de Sousa | Desenvolvedor |
-| Victor Araújo Pacheco de Miranda | Tech Lead |
+| Vitor Araújo Pacheco de Miranda Nunes Leite | Tech Lead |
 
 ---
 
