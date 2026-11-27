@@ -21,6 +21,8 @@ Criar uma solução prática e organizada que permita:
 
 Acesse o protótipo da aplicação:
 
+[Web](https://metadata-trail-keeper.lovable.app/)
+
 ## Funcionalidades planejadas
 
 | Código | Requisito | Descrição |
